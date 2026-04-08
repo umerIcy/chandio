@@ -1,7 +1,5 @@
 /**
- * Doctor tools – shared access password (edit this file only).
- * End users enter this once per browser; unlock is stored in localStorage.
- * This is light protection for a static site—not a substitute for server auth.
+ * as light protection for a static site, yeah i know its bad but i dont really have time to setup a backend/secrets manager rn.
  */
 (function () {
   'use strict';
